@@ -1,4 +1,1 @@
-
-
-LOCAL entry !!!
-:)
+WEB entry !!!
